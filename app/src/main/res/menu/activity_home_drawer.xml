@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/booknow"
+            android:icon="@mipmap/ic_motorcycle_black_24dp"
+            android:title="Book Now" />
+        <item
+            android:id="@+id/howitworks"
+            android:icon="@mipmap/ic_info_outline_black_24dp"
+            android:title="How It Works" />
+        <item
+            android:id="@+id/farechart"
+            android:icon="@mipmap/ic_receipt_black_24dp"
+            android:title="Fare Chart" />
+        <item
+            android:id="@+id/termsandcondition"
+            android:icon="@mipmap/ic_event_note_black_24dp"
+            android:title="Terms and Conditions" />
+        <item
+            android:id="@+id/faqs"
+            android:icon="@mipmap/ic_question_answer_black_24dp"
+            android:title="FAQs" />
+        <item
+            android:id="@+id/callus"
+            android:icon="@mipmap/ic_call_black_24dp"
+            android:title="Call Us" />
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@mipmap/ic_motorcycle_black_24dp"
+            android:title="About Us" />
+    </group>
+
+</menu>

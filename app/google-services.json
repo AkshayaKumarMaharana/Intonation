@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "896679327439",
+    "firebase_url": "https://registration-d2846.firebaseio.com",
+    "project_id": "registration-d2846",
+    "storage_bucket": "registration-d2846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896679327439:android:a3b35e3ad267bdde",
+        "android_client_info": {
+          "package_name": "com.a16gmail.maharana.akshaya.registerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896679327439-i2cv9nls5o8iibrlbbmgdis8ipittjfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFHFxN6618NtomGsIaDbdRkxW4zxcXGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896679327439:android:ab015f160d05e79c",
+        "android_client_info": {
+          "package_name": "com.a16gmail.maharana.akshaya.boring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896679327439-1bd3erbp11rgso3oeejmuieunvinmdte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a16gmail.maharana.akshaya.boring",
+            "certificate_hash": "e1f12954da0c8c812f1e13b15c8a746143f9568f"
+          }
+        },
+        {
+          "client_id": "896679327439-i2cv9nls5o8iibrlbbmgdis8ipittjfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFHFxN6618NtomGsIaDbdRkxW4zxcXGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896679327439-i2cv9nls5o8iibrlbbmgdis8ipittjfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896679327439:android:ab38ef954733dfac",
+        "android_client_info": {
+          "package_name": "com.a16gmail.maharana.akshaya.last"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896679327439-j0giorble0vth93v54ov6lefqqri1d0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a16gmail.maharana.akshaya.last",
+            "certificate_hash": "e1f12954da0c8c812f1e13b15c8a746143f9568f"
+          }
+        },
+        {
+          "client_id": "896679327439-i2cv9nls5o8iibrlbbmgdis8ipittjfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFHFxN6618NtomGsIaDbdRkxW4zxcXGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896679327439-i2cv9nls5o8iibrlbbmgdis8ipittjfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
